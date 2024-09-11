@@ -25,7 +25,7 @@ class AttendanceController extends Controller
 
         $code = $request->input('code');
         $gate = $request->input('gate');
-        $now = Carbon::now();
+        $now = Carbon::now()->setTimezone('Asia/Jakarta');
 
         // LOGIC CORE
         if (strpos($code, 'father') !== false || strpos($code, 'mother') !== false) {
