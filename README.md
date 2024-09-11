@@ -1,3 +1,15 @@
+Saya Fernanda Andyka Putra (Nanda) Berikut project/challenge yang telah saya lakukan, menggunakan tech Laravel (PHP), MySQL, Ajax, Tailwind CSS, dll. 
+
+Di sini terdapat fitur untuk presensi dengan input Code user dan menampilkan Logs nya. Saya juga menambahkan logic pada perubahan State (IN/OUT) agar diberi jarak waktu, hal ini saya lakukan agar user tidak bisa presensi 2x di waktu yang bersamaan.  
+
+Jika ada kesalahan ataupun miss logic, mohon kabarkan kepada saya. Terimakasih sebelumnya, semoga bisa memenuhi ekspektasi bapak
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
